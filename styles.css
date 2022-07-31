@@ -1,0 +1,26 @@
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    float: center;
+}
+
+.center {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10px;
+    object-fit: cover;
+    border: 0px;
+}
+
+table,
+th,
+td {
+    border: 1px solid rgb(166, 2, 2);
+}
+
+h1.header {
+    text-align: center;
+    margin: auto;
+}
