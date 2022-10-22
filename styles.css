@@ -24,3 +24,6 @@ h1.header {
     text-align: center;
     margin: auto;
 }
+.marquee {
+    text-size-adjust: 250%;
+}
