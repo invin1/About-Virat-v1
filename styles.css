@@ -24,6 +24,18 @@ h1.header {
     text-align: center;
     margin: auto;
 }
-.marquee {
+marquee.marquee {
     text-size-adjust: 250%;
+}
+.github {
+    object-fit: cover;
+    border: 0px;
+    height: 35px;
+    width: 35px;
+}
+.twitter {
+    object-fit: cover;
+    border: 0px;
+    height: 35px;
+    width: 35px;
 }
